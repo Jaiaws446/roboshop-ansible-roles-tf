@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb-dev.daws76s.online  # submit your host
-REDIS_HOST: redis-dev.daws76s.online 
-MYSQL_HOST: mysql-dev.daws76s.online 
-RABBITMQ_HOST: rabbitmq-dev.daws76s.online 
-CATALOGUE_HOST: catalogue-dev.daws76s.online 
-USER_HOST: user-dev.daws76s.online 
-CART_HOST: cart-dev.daws76s.online 
-SHIPPING_HOST: shipping-dev.daws76s.online 
-PAYMENT_HOST: payment-dev.daws76s.online 
-DISPATCH_HOST: dispatch-dev.daws76s.online 
+MONGODB_HOST: mongodb-dev.jaiaws446.online  # submit your host
+REDIS_HOST: redis-dev.jaiaws446.online 
+MYSQL_HOST: mysql-dev.jaiaws446.online 
+RABBITMQ_HOST: rabbitmq-dev.jaiaws446.online 
+CATALOGUE_HOST: catalogue-dev.jaiaws446.online 
+USER_HOST: user-dev.jaiaws446.online 
+CART_HOST: cart-dev.jaiaws446.online 
+SHIPPING_HOST: shipping-dev.jaiaws446.online 
+PAYMENT_HOST: payment-dev.jaiaws446.online 
+DISPATCH_HOST: dispatch-dev.jaiaws446.online 
