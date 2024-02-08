@@ -10,3 +10,4 @@ PAYMENT_HOST: payment-prod.jaiaws446.online
 DISPATCH_HOST: dispatch-prod.jaiaws446.online 
 NEXUS_URL: http://172.31.9.199:8081/repository
 group_id: "com/roboshop"
+packaging: "zip"
